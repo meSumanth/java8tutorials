@@ -8,3 +8,6 @@
 .idea/workspace.xml
 javaj8tutorials.iml
 out/production/javaj8tutorials/com/java8tutorials/Main.class
+*.class
+.idea/uiDesigner.xml
+out/production/javaj8tutorials/META-INF/javaj8tutorials.kotlin_module
